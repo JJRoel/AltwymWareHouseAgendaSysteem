@@ -139,7 +139,7 @@
             <form id="readOnlyEventForm">
                 <label for="readOnlyUserId">User ID:</label><br>
                 <input type="text" id="readOnlyUserId" name="userId" readonly><br>
-                <label for="readOnlyItemId">Item ID:</label><br>
+                <label for="readOnlyItemId">Item:</label><br>
                 <input type="text" id="readOnlyItemId" name="itemId" readonly><br>
                 <label for="readOnlyDescription">Beschrijving:</label><br>
                 <textarea id="readOnlyDescription" name="description"></textarea><br>
