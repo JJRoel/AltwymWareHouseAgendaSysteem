@@ -14,7 +14,7 @@ To get started with WareHouseAgenda, follow these steps:
     ```bash
     cd AltwymWareHouseAgendaSysteem
     ```
-3. **Install the required dependencies:**
+3. **Install the required dependencies https://getcomposer.org/:**
     ```bash
     composer install
     ```
