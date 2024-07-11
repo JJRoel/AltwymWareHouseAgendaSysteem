@@ -12,7 +12,7 @@ To get started with WareHouseAgenda, follow these steps:
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd WareHouseAgenda
+    cd AltwymWareHouseAgendaSysteem
     ```
 3. **Install the required dependencies:**
     ```bash
